@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#004d40</item>
+        <item name="colorPrimaryDark">#00251a</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyRadiusButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#004d40</item>
+        <item name="colorControlActivated">#00251a</item>
+
+
+
+    </style>
+
+</resources>
